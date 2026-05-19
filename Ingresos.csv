@@ -1,0 +1,173 @@
+﻿Unidad;Código concepto;Concepto;Recurso;Tipo de Ingreso;Valor inicial;Valor aforo;Total recaudo;Fecha inicial;Fecha final
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.01.01;Aportes para Funcionamiento;10.0-Aportes Nacion - Funcionamiento;Aportes de la Nación;3.14782E+11;3.14782E+11;1.02849E+11;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.001;Recursos del balance - Aportes funcionamiento;10.0-Aportes Nacion - Funcionamiento;Aportes de la Nación;0;545944007.9;545944007.9;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.13.01.002;Ingresos de Vigencias Anteriores - Aportes;10.0-Aportes Nacion - Funcionamiento;Aportes de la Nación;0;0;11038169644;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.021;Recursos del balance - PIC Convencional;10.1-Aportes Nación - PIC Convencional;Aportes de la Nación;0;1967656093;1967656093;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.020;Recursos del balance - PIC Territorial;10.2-Aportes Nación - PIC Territorial;Aportes de la Nación;0;936477783.6;936477783.6;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.01.10;Matrículas Pregrado-Política de Gratuidad;10.5-Aportes Nación - Política de gratuidad;Aportes de la Nación;20708427143;20708427143;1395938900;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.07.01;Estampilla Pro- Universidad Nacional y Demás Entidades Estatales de Colombia;12-Estampillas Otras Universidades;Aportes de la Nación;5706455422;5706455422;0;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.05.02.003;Rendimientos Financieros - Estampilla Pro UNAL y demas universidades;12-Estampillas Otras Universidades;Aportes de la Nación;0;0;4446575.26;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.007;Recursos del balance - Estampilla Prounal;12-Estampillas Otras Universidades;Aportes de la Nación;0;9961695078;9961695078;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.06.00;Excedentes Cooperativas Art.142, Ley 1819 del 2016;13-Cooperativas;Aportes de la Nación;2126284735;2126284735;0;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.022;Recursos del Balance - Cooperativas;13-Cooperativas;Aportes de la Nación;0;1887697;1887697;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.01.03;Matrículas Pregrado FSE;14-Matriculas FSE;Aportes de la Nación;18737327483;18737327483;0;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.023;Recursos del balance - Matrículas FSE;14-Matriculas FSE;Aportes de la Nación;0;888183454.3;888183454.3;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.01.02;Aportes para Inversion;16.0-Aportes inversion;Aportes de la Nación;7728720060;7728720060;7740281271;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.05.02.004;Rendimientos Financieros - CREE;16.0-Aportes inversion;Aportes de la Nación;0;0;249644.8;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.014;Recursos del balance - Aportes inversion;16.0-Aportes inversion;Aportes de la Nación;0;5148400892;5148400892;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.01.04;Devolucion de descuento por votacion;17-Devolucion descuento electoral;Aportes de la Nación;5447536009;5447536009;1812768265;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.01.05;Articulo 87 CESU;18-Articulo 87 CESU;Aportes de la Nación;427778274;427778274;677830504;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.02.015;Certificaciones y constancias;20-Propios;Recursos Propios;54390954;54390954;19607350;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.02.116.01.01.01;Pregrado - Inscripciones ;20-Propios;Recursos Propios;316506993;316506993;13655700;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.02.116.01.01.02;Pregrado - Derechos de grado;20-Propios;Recursos Propios;451761696;451761696;158701140;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.02.116.01.01.03;Pregrado - Matrículas;20-Propios;Recursos Propios;5525977978;5525977978;2806873914;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.02.116.01.01.04;Pregrado - Certificaciones, constancias académicas y derechos complementarios;20-Propios;Recursos Propios;4231617827;4231617827;1714968160;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.03.001.05;Sanciones administrativas;20-Propios;Recursos Propios;22586143;22586143;6075250;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.05.002.06;"Comercio y distribución; alojamiento; servicios de suministro de comidas y bebidas; servicios de transporte; y servicios de distribución de electricidad, gas y agua";20-Propios;Recursos Propios;4173694824;4173694824;1479086815;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.05.002.07;"Servicios financieros y servicios conexos; servicios inmobiliarios; y servicios de arrendamiento y leasing";20-Propios;Recursos Propios;235081376;235081376;63394597.67;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.05.002.01;"Minerales; electricidad, gas y agua";20-Propios;Recursos Propios;129404752;129404752;32820684;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.05.002.04;Productos metálicos, maquinaria y equipo;20-Propios;Recursos Propios;5025174;5025174;270000;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.05.02.002;Rendimientos Financieros - Propios;20-Propios;Recursos Propios;1822006660;1822006660;728873735;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.002;Recursos del balance - Propios;20-Propios;Recursos Propios;0;1579085708;1579085708;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.13.01.001;Licencias e Incapacidades;20-Propios;Recursos Propios;331465375;331465375;126983672;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.13.01.003;Ingresos de Vigencias Anteriores - Servicios Públicos;20-Propios;Recursos Propios;0;0;10558812;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.13.01.007;Ingresos de Vigencias Anteriores - Propios;20-Propios;Recursos Propios;0;0;12477750;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.02.116.01.01.03;Pregrado - Matrículas;20-Propios;Recursos Propios;0;0;1379200;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.02.116.01.01.04;Pregrado - Certificaciones, constancias académicas y derechos complementarios;20-Propios;Recursos Propios;0;0;1345900;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.02.116.01.01.03;Pregrado - Matrículas;20-Propios;Recursos Propios;0;0;37315864.4;1/01/2026;30/04/2026
+11 - ESTUDIOS TECNOLOGICOS Y A DISTANCIA;1.1.02.02.116.01.01.04;Pregrado - Certificaciones, constancias académicas y derechos complementarios;20-Propios;Recursos Propios;0;0;225000;1/01/2026;30/04/2026
+15 - SEDE REGIONAL AGUAZUL;1.1.02.02.116.01.01.04;Pregrado - Certificaciones, constancias académicas y derechos complementarios;20-Propios;Recursos Propios;0;0;2576000;1/01/2026;30/04/2026
+15 - SEDE REGIONAL AGUAZUL;1.1.02.03.001.05;Sanciones administrativas;20-Propios;Recursos Propios;0;0;119700;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.06.006.02;Devolución IVA - Instituciones de Educación Superior;21-Devolucion IVA;Recursos Propios;4587997825;4587997825;1982835590;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.015;Recursos del balance - Devolucion IVA;21-Devolucion IVA;Recursos Propios;0;953393273;953393273;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;0;0;12379600;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;0;0;3883193;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;212479362;212479362;112275300;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;372975795;372975795;19260700;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;10485147378;10527470904;3719944302;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;14917592;14917592;18835100;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.2.10.02.003;Recursos del balance - Posgrados;31-Posgrados;Extensión y Posgrados;0;179478068;179478068;1/01/2026;30/04/2026
+05 - CIENCIAS BASICAS;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;30612465;30612465;31595100;1/01/2026;30/04/2026
+05 - CIENCIAS BASICAS;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;41215292;41215292;4377500;1/01/2026;30/04/2026
+05 - CIENCIAS BASICAS;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;1408521574;1408521574;677418124;1/01/2026;30/04/2026
+05 - CIENCIAS BASICAS;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;1273178;1273178;2672500;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;111276000;111276000;37013600;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;218394000;218394000;6391100;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;5018300000;5018300000;2079438214;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;0;0;8860000;1/01/2026;30/04/2026
+07 - CIENCIAS DE LA SALUD;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;21238620;21238620;3137600;1/01/2026;30/04/2026
+07 - CIENCIAS DE LA SALUD;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;33309900;33309900;875500;1/01/2026;30/04/2026
+07 - CIENCIAS DE LA SALUD;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;2205929622;2206189622;827772147;1/01/2026;30/04/2026
+07 - CIENCIAS DE LA SALUD;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;0;0;885500;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;44900440;44900440;34732900;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;129301900;129301900;2626500;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;2008442150;2008442150;972615443;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;2342000;2342000;4999700;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;0;0;68432100;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;0;0;875500;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;7974390060;7974390060;3374837013;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;0;0;17876400;1/01/2026;30/04/2026
+10 - DERECHO Y CIENCIAS SOCIALES;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;4612000;4612000;1537500;1/01/2026;30/04/2026
+10 - DERECHO Y CIENCIAS SOCIALES;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;7686900;7686900;0;1/01/2026;30/04/2026
+10 - DERECHO Y CIENCIAS SOCIALES;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;364581200;364581200;111499268;1/01/2026;30/04/2026
+10 - DERECHO Y CIENCIAS SOCIALES;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;1000000;1000000;2118000;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;90602928;90602928;44057600;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;205081160;205081160;5253000;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;3406788528;3406788528;1433827709;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;9540000;9540000;4698500;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;105525765;105525765;33764800;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;208353425;208353425;1751000;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;4945268530;4945268530;1831194860;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;0;0;6384000;1/01/2026;30/04/2026
+14 - SECCIONAL CHIQUINQUIRA;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;4441320;4441320;1537500;1/01/2026;30/04/2026
+14 - SECCIONAL CHIQUINQUIRA;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;11103300;11103300;0;1/01/2026;30/04/2026
+14 - SECCIONAL CHIQUINQUIRA;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;194307750;194307750;0;1/01/2026;30/04/2026
+11 - ESTUDIOS TECNOLOGICOS Y A DISTANCIA;1.1.02.02.116.01.02.01;Posgrado - Inscripciones ;31-Posgrados;Extensión y Posgrados;138200000;138200000;64729100;1/01/2026;30/04/2026
+11 - ESTUDIOS TECNOLOGICOS Y A DISTANCIA;1.1.02.02.116.01.02.02;Posgrado - Derechos de grado;31-Posgrados;Extensión y Posgrados;238000000;238000000;1138100;1/01/2026;30/04/2026
+11 - ESTUDIOS TECNOLOGICOS Y A DISTANCIA;1.1.02.02.116.01.02.03;Posgrado - Matrículas;31-Posgrados;Extensión y Posgrados;5202000000;5202000000;2868189053;1/01/2026;30/04/2026
+11 - ESTUDIOS TECNOLOGICOS Y A DISTANCIA;1.1.02.02.116.01.02.04;Posgrado - Certificaciones, constancias académicas y derechos complementarios;31-Posgrados;Extensión y Posgrados;0;0;10535500;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;0;0;1852052131;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;0;0;6250000;1/01/2026;30/04/2026
+05 - CIENCIAS BASICAS;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;10000000;10000000;11768000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;0;0;36200000;1/01/2026;30/04/2026
+07 - CIENCIAS DE LA SALUD;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;0;0;225000;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;810500000;810500000;35905650;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;1575000000;1635316860;14584480;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;21050000;21050000;12586925;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;460000000;480000000;176499959;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.00;Agricultura, silvicultura y productos de la pesca;32-Extension;Extensión y Posgrados;650000000;650000000;0;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;15000000;15000000;23119717;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.002.00;Agricultura, silvicultura y productos de la pesca;32-Extension;Extensión y Posgrados;0;0;158595798.4;1/01/2026;30/04/2026
+15 - SEDE REGIONAL AGUAZUL;1.1.02.05.001.09.01.01;Extension;32-Extension;Extensión y Posgrados;0;0;12232000;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;2141262435;312119539.6;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;537500000;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.05.02.008;Rendimientos Financieros - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;0;34493603.99;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;4301415000;7375571531;0;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;49471850;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;6500000;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;5674059937;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;49500000;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;6500000;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;6500000;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;6250000;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;6250000;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.2.10.02.005;Recursos del balance - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;36533400;36533400;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;220000000;220631149;8500000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;27000000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;20000000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;20000000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;20000000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;34000000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;19800000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;30000000;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.2.10.02.005;Recursos del balance - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;0;0;1/01/2026;30/04/2026
+07 - CIENCIAS DE LA SALUD;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;100000000;100000000;0;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;1000000000;1000000000;0;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.2.10.02.005;Recursos del balance - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;7331637.85;7331637.85;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;337750000;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;50607918.5;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;4800000000;6909265540;0;1/01/2026;30/04/2026
+09 - INGENIERIA;1.2.10.02.005;Recursos del balance - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;0;0;1/01/2026;30/04/2026
+10 - DERECHO Y CIENCIAS SOCIALES;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;250000000;250000000;0;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;12000000;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;192348000;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;25650000;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;47532087;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;825000000;825000000;19846827.08;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.2.10.02.005;Recursos del balance - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;8940706.47;8940706.47;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;3000000000;5261933185;0;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;233677514;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;113893750;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;469841460;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;663804100;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.2.05.02.008;Rendimientos Financieros - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;0;161646;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.2.10.02.005;Recursos del balance - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;28280935.82;28280935.82;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;18000000;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;16000000000;16000000000;5235692775;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;29600000;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.09.01.04;Investigacion;33-Convenios con derechos;Extensión y Posgrados;0;0;774390000;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.2.05.02.008;Rendimientos Financieros - Convenios con derechos;33-Convenios con derechos;Extensión y Posgrados;0;0;2117237;1/01/2026;30/04/2026
+15 - SEDE REGIONAL AGUAZUL;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;0;58820000;1/01/2026;30/04/2026
+15 - SEDE REGIONAL AGUAZUL;1.1.02.05.001.08.01;Convenios con derechos económicos;33-Convenios con derechos;Extensión y Posgrados;0;8634516.13;0;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.008;Recursos del balance - Convenios sin derechos;34-Convenios sin derechos;Extensión y Posgrados;0;136861637;136861637;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.08.02;Convenios sin derechos económicos;34-Convenios sin derechos;Extensión y Posgrados;628035382;628135382;0;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.2.10.02.008;Recursos del balance - Convenios sin derechos;34-Convenios sin derechos;Extensión y Posgrados;0;491023700.2;491023700.2;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.08.02;Convenios sin derechos económicos;34-Convenios sin derechos;Extensión y Posgrados;0;39840000;0;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.08.02;Convenios sin derechos económicos;34-Convenios sin derechos;Extensión y Posgrados;4984000000;4984000000;0;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.08.02;Convenios sin derechos económicos;34-Convenios sin derechos;Extensión y Posgrados;0;0;2200000;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.2.10.02.008;Recursos del balance - Convenios sin derechos;34-Convenios sin derechos;Extensión y Posgrados;0;1207489080;1207489080;1/01/2026;30/04/2026
+04 - CIENCIAS DE LA EDUCACION;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;150000000;150000000;18900000;1/01/2026;30/04/2026
+05 - CIENCIAS BASICAS;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;61000000;61000000;0;1/01/2026;30/04/2026
+06 - CIENCIAS ECONOMICAS Y ADMINISTRATIVAS;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;69000000;69000000;0;1/01/2026;30/04/2026
+07 - CIENCIAS DE LA SALUD;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;100000000;100000000;97142705;1/01/2026;30/04/2026
+08 - CIENCIAS AGROPECUARIAS;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;4000000;4000000;0;1/01/2026;30/04/2026
+09 - INGENIERIA;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;117000000;117000000;2500000;1/01/2026;30/04/2026
+10 - DERECHO Y CIENCIAS SOCIALES;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;20000000;20000000;3600000;1/01/2026;30/04/2026
+12 - SECCIONAL DUITAMA;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;255500000;255500000;34320000;1/01/2026;30/04/2026
+13 - SECCIONAL SOGAMOSO;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;142000000;142000000;72628000;1/01/2026;30/04/2026
+14 - SECCIONAL CHIQUINQUIRA;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;43000000;43000000;6103000;1/01/2026;30/04/2026
+11 - ESTUDIOS TECNOLOGICOS Y A DISTANCIA;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;860000000;860000000;548732654;1/01/2026;30/04/2026
+02 - INVESTIGACION Y EXTENSION;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;535000000;535000000;174843399;1/01/2026;30/04/2026
+15 - SEDE REGIONAL AGUAZUL;1.1.02.05.001.09.01.05;Educación continuada;35-Educacion continuada;Extensión y Posgrados;30000000;30000000;9647000;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.1.01.02.300.32;Estampilla pro Universidad Pedagógica y Tecnológica de Colombia;40-Estampilla UPTC;Estampilla Pro UPTC;4206444980;5737263195;1605125850;1/01/2026;30/04/2026
+01 - ADMINISTRATIVA Y FINANCIERA;1.2.10.02.006;Recursos del balance - Estampilla UPTC;40-Estampilla UPTC;Estampilla Pro UPTC;0;1880006027;1880006027;1/01/2026;30/04/2026
